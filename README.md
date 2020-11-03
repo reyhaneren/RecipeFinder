@@ -1,5 +1,4 @@
 # RecipeFinder
-
 https://recipefinder-cwru.herokuapp.com
 
 ### Description	
