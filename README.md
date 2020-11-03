@@ -1,4 +1,7 @@
 # RecipeFinder
+
+https://recipefinder-cwru.herokuapp.com/allergies
+
 ### Description	
 Our team created an app that finds recipes given an ingredient and filtered by cuisine, allergies, and diets.  It further allows users to create a personal profile to which they may save recipes they either find or recipes they create in their own recipe blog.
 
